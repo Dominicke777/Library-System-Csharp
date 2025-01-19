@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\issuancechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\issuancechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\reissue book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\reissue book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\thresholdchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\thresholdchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\grantbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\grantbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\reissue book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\reissue book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\thresholdchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\thresholdchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|c:\\users\\domho\\downloads\\library management system\\library management system\\library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\issuancechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\issuancechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A52728-ABFB-4675-B376-77F1DB9F2DEB}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1089,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Fine.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Fine.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Fine.cs",
+              "RelativeToolTip": "Library Management System\\Fine.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:44:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\AddBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddBook.cs",
+              "RelativeToolTip": "Library Management System\\AddBook.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAhwHQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:41:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssuanceChart.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\IssuanceChart.cs",
+              "RelativeDocumentMoniker": "Library Management System\\IssuanceChart.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\IssuanceChart.cs",
+              "RelativeToolTip": "Library Management System\\IssuanceChart.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home Page.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Home Page.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Home Page.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Home Page.cs",
+              "RelativeToolTip": "Library Management System\\Home Page.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:34:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\AddBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddBook.cs [Design]",
+              "RelativeToolTip": "Library Management System\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:41:47.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Fine.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Fine.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Fine.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Fine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:03:40.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReIssue Book.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ReIssue Book.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ReIssue Book.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ReIssue Book.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ReIssue Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:28:01.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ReturnBook.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ReturnBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ReturnBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:29:50.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThresholdChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ThresholdChart.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ThresholdChart.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ThresholdChart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ThresholdChart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:08.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:23:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\UpdateBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\UpdateBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:31:27.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\UpdateUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\UpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:31:54.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ViewBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ViewBook.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ViewBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ViewBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:32:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ViewUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ViewUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ViewUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\ViewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:33:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GrantBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\GrantBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\GrantBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\GrantBook.cs",
+              "RelativeToolTip": "Library Management System\\GrantBook.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAH4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:07.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReIssue Book.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ReIssue Book.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ReIssue Book.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ReIssue Book.cs",
+              "RelativeToolTip": "Library Management System\\ReIssue Book.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAHAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:28:08.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IssueBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\IssueBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\IssueBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\IssueBook.cs",
+              "RelativeToolTip": "Library Management System\\IssueBook.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAGoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:08.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteUser.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\DeleteUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\DeleteUser.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\DeleteUser.cs",
+              "RelativeToolTip": "Library Management System\\DeleteUser.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:43:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\DeleteUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\DeleteUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\DeleteUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\DeleteUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:43:31.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\DeleteBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\DeleteBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\DeleteBook.cs",
+              "RelativeToolTip": "Library Management System\\DeleteBook.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAEMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:42:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\DeleteBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\DeleteBook.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\DeleteBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\DeleteBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:42:38.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\AddUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:42:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\AddUser.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\AddUser.cs",
+              "RelativeToolTip": "Library Management System\\AddUser.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAB4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:40:12.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewUser.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ViewUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ViewUser.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ViewUser.cs",
+              "RelativeToolTip": "Library Management System\\ViewUser.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:33:14.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ViewBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ViewBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ViewBook.cs",
+              "RelativeToolTip": "Library Management System\\ViewBook.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAB0AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:32:47.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\UpdateUser.cs",
+              "RelativeToolTip": "Library Management System\\UpdateUser.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAEAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:31:57.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\UpdateBook.cs",
+              "RelativeToolTip": "Library Management System\\UpdateBook.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:31:30.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReturnBook.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ReturnBook.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ReturnBook.cs",
+              "RelativeToolTip": "Library Management System\\ReturnBook.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:29:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ThresholdChart.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ThresholdChart.cs",
+              "RelativeDocumentMoniker": "Library Management System\\ThresholdChart.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\ThresholdChart.cs",
+              "RelativeToolTip": "Library Management System\\ThresholdChart.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAABgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Login.cs",
+              "ToolTip": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Login.cs",
+              "RelativeToolTip": "Library Management System\\Login.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:23:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IssuanceChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\IssuanceChart.cs",
+              "RelativeDocumentMoniker": "Library Management System\\IssuanceChart.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\IssuanceChart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\IssuanceChart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:08.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Home Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\domho\\Downloads\\Library Management System\\Library Management System\\Library Management System\\Home Page.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Home Page.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hp\\Downloads\\Library-Management-System-In-C-and-SQL-master\\Library-Management-System-In-C-and-SQL-master\\Library Management System\\Home Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:15:08.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
